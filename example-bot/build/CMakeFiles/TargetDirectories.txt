@@ -1,0 +1,3 @@
+/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/rebuild_cache.dir
+/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/edit_cache.dir
+/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/example-bot.dir
