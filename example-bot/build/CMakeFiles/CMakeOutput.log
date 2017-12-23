@@ -28,33 +28,33 @@ The CXX compiler identification is AppleClang, found in "/Volumes/Media/homework
 Determining if the C compiler works passed with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_7b6e4/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_7b6e4.dir/build.make CMakeFiles/cmTC_7b6e4.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_35c02/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_35c02.dir/build.make CMakeFiles/cmTC_35c02.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7b6e4.dir/testCCompiler.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_7b6e4.dir/testCCompiler.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_7b6e4
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7b6e4.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_7b6e4.dir/testCCompiler.c.o  -o cmTC_7b6e4 
+Building C object CMakeFiles/cmTC_35c02.dir/testCCompiler.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_35c02.dir/testCCompiler.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_35c02
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35c02.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_35c02.dir/testCCompiler.c.o  -o cmTC_35c02 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_9bb69/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_9bb69.dir/build.make CMakeFiles/cmTC_9bb69.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_41a65/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_41a65.dir/build.make CMakeFiles/cmTC_41a65.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_9bb69
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bb69.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o  -o cmTC_9bb69 
+Building C object CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_41a65
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41a65.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o  -o cmTC_41a65 
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
 Target: x86_64-apple-darwin17.0.0
 Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_9bb69 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_41a65 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-305
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -68,19 +68,19 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/local/bin/gmake" "cmTC_9bb69/fast"]
-  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_9bb69.dir/build.make CMakeFiles/cmTC_9bb69.dir/build]
+  ignore line: [Run Build Command:"/usr/local/bin/gmake" "cmTC_41a65/fast"]
+  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_41a65.dir/build.make CMakeFiles/cmTC_41a65.dir/build]
   ignore line: [gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_9bb69]
-  ignore line: [/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bb69.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o  -o cmTC_9bb69 ]
+  ignore line: [Building C object CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_41a65]
+  ignore line: [/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41a65.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o  -o cmTC_41a65 ]
   ignore line: [Apple LLVM version 9.0.0 (clang-900.0.39.2)]
   ignore line: [Target: x86_64-apple-darwin17.0.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_9bb69 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_41a65 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -93,11 +93,11 @@ Parsed C implicit link information from above output:
     arg [-syslibroot] ==> ignore
     arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_9bb69] ==> ignore
+    arg [cmTC_41a65] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_9bb69.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_41a65.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/lib]
@@ -116,14 +116,14 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_bd56b/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_bd56b.dir/build.make CMakeFiles/cmTC_bd56b.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_04da5/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_04da5.dir/build.make CMakeFiles/cmTC_04da5.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_bd56b.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c11 -o CMakeFiles/cmTC_bd56b.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_bd56b
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bd56b.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_bd56b.dir/feature_tests.c.o  -o cmTC_bd56b 
+Building C object CMakeFiles/cmTC_04da5.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c11 -o CMakeFiles/cmTC_04da5.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_04da5
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04da5.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_04da5.dir/feature_tests.c.o  -o cmTC_04da5 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -136,14 +136,14 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_f519b/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_f519b.dir/build.make CMakeFiles/cmTC_f519b.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_fb211/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_fb211.dir/build.make CMakeFiles/cmTC_fb211.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f519b.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c99 -o CMakeFiles/cmTC_f519b.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_f519b
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f519b.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_f519b.dir/feature_tests.c.o  -o cmTC_f519b 
+Building C object CMakeFiles/cmTC_fb211.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c99 -o CMakeFiles/cmTC_fb211.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_fb211
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fb211.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_fb211.dir/feature_tests.c.o  -o cmTC_fb211 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -156,14 +156,14 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_948e8/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_948e8.dir/build.make CMakeFiles/cmTC_948e8.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_2ca62/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_2ca62.dir/build.make CMakeFiles/cmTC_2ca62.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_948e8.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c90 -o CMakeFiles/cmTC_948e8.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_948e8
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_948e8.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_948e8.dir/feature_tests.c.o  -o cmTC_948e8 
+Building C object CMakeFiles/cmTC_2ca62.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c90 -o CMakeFiles/cmTC_2ca62.dir/feature_tests.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2ca62
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ca62.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2ca62.dir/feature_tests.c.o  -o cmTC_2ca62 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -174,33 +174,33 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_d93a2/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_d93a2.dir/build.make CMakeFiles/cmTC_d93a2.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_8909e/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_8909e.dir/build.make CMakeFiles/cmTC_8909e.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d93a2.dir/testCXXCompiler.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_d93a2.dir/testCXXCompiler.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_d93a2
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d93a2.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d93a2.dir/testCXXCompiler.cxx.o  -o cmTC_d93a2 
+Building CXX object CMakeFiles/cmTC_8909e.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_8909e.dir/testCXXCompiler.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_8909e
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8909e.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_8909e.dir/testCXXCompiler.cxx.o  -o cmTC_8909e 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_f1a0a/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_f1a0a.dir/build.make CMakeFiles/cmTC_f1a0a.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_c176c/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_c176c.dir/build.make CMakeFiles/cmTC_c176c.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_f1a0a
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a0a.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_f1a0a 
+Building CXX object CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_c176c
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c176c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_c176c 
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
 Target: x86_64-apple-darwin17.0.0
 Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_f1a0a -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_c176c -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-305
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -214,19 +214,19 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/local/bin/gmake" "cmTC_f1a0a/fast"]
-  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_f1a0a.dir/build.make CMakeFiles/cmTC_f1a0a.dir/build]
+  ignore line: [Run Build Command:"/usr/local/bin/gmake" "cmTC_c176c/fast"]
+  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_c176c.dir/build.make CMakeFiles/cmTC_c176c.dir/build]
   ignore line: [gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_f1a0a]
-  ignore line: [/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a0a.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_f1a0a ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.9.6/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_c176c]
+  ignore line: [/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c176c.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_c176c ]
   ignore line: [Apple LLVM version 9.0.0 (clang-900.0.39.2)]
   ignore line: [Target: x86_64-apple-darwin17.0.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_f1a0a -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.13.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -o cmTC_c176c -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -239,11 +239,11 @@ Parsed CXX implicit link information from above output:
     arg [-syslibroot] ==> ignore
     arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_f1a0a] ==> ignore
+    arg [cmTC_c176c] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_f1a0a.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_c176c.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
@@ -263,14 +263,14 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_50f60/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_50f60.dir/build.make CMakeFiles/cmTC_50f60.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_cfd31/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_cfd31.dir/build.make CMakeFiles/cmTC_cfd31.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_50f60.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++1z -o CMakeFiles/cmTC_50f60.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_50f60
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_50f60.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_50f60.dir/feature_tests.cxx.o  -o cmTC_50f60 
+Building CXX object CMakeFiles/cmTC_cfd31.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++1z -o CMakeFiles/cmTC_cfd31.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_cfd31
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cfd31.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_cfd31.dir/feature_tests.cxx.o  -o cmTC_cfd31 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -336,14 +336,14 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_b72a2/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_b72a2.dir/build.make CMakeFiles/cmTC_b72a2.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_28828/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_28828.dir/build.make CMakeFiles/cmTC_28828.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b72a2.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++14 -o CMakeFiles/cmTC_b72a2.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_b72a2
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b72a2.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_b72a2.dir/feature_tests.cxx.o  -o cmTC_b72a2 
+Building CXX object CMakeFiles/cmTC_28828.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++14 -o CMakeFiles/cmTC_28828.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_28828
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28828.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_28828.dir/feature_tests.cxx.o  -o cmTC_28828 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -409,14 +409,14 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_a2b82/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_a2b82.dir/build.make CMakeFiles/cmTC_a2b82.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_aed12/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_aed12.dir/build.make CMakeFiles/cmTC_aed12.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a2b82.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++11 -o CMakeFiles/cmTC_a2b82.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_a2b82
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2b82.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a2b82.dir/feature_tests.cxx.o  -o cmTC_a2b82 
+Building CXX object CMakeFiles/cmTC_aed12.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++11 -o CMakeFiles/cmTC_aed12.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_aed12
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aed12.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_aed12.dir/feature_tests.cxx.o  -o cmTC_aed12 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -482,14 +482,14 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_dce0c/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_dce0c.dir/build.make CMakeFiles/cmTC_dce0c.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_c827a/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_c827a.dir/build.make CMakeFiles/cmTC_c827a.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_dce0c.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++98 -o CMakeFiles/cmTC_dce0c.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_dce0c
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dce0c.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_dce0c.dir/feature_tests.cxx.o  -o cmTC_dce0c 
+Building CXX object CMakeFiles/cmTC_c827a.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -std=c++98 -o CMakeFiles/cmTC_c827a.dir/feature_tests.cxx.o -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_c827a
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c827a.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c827a.dir/feature_tests.cxx.o  -o cmTC_c827a 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
@@ -553,28 +553,28 @@ gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/bu
 Determining if the include file pthread.h exists passed with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_28d8a/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_28d8a.dir/build.make CMakeFiles/cmTC_28d8a.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_6279f/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_6279f.dir/build.make CMakeFiles/cmTC_6279f.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_28d8a.dir/CheckIncludeFile.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_28d8a.dir/CheckIncludeFile.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_28d8a
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28d8a.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_28d8a.dir/CheckIncludeFile.c.o  -o cmTC_28d8a 
+Building C object CMakeFiles/cmTC_6279f.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_6279f.dir/CheckIncludeFile.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6279f
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6279f.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_6279f.dir/CheckIncludeFile.c.o  -o cmTC_6279f 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the pthread_create exist passed with the following output:
 Change Dir: /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/gmake" "cmTC_be00a/fast"
-/usr/local/bin/gmake -f CMakeFiles/cmTC_be00a.dir/build.make CMakeFiles/cmTC_be00a.dir/build
+Run Build Command:"/usr/local/bin/gmake" "cmTC_4c350/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_4c350.dir/build.make CMakeFiles/cmTC_4c350.dir/build
 gmake[1]: Entering directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_be00a.dir/CheckSymbolExists.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_be00a.dir/CheckSymbolExists.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_be00a
-/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be00a.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_be00a.dir/CheckSymbolExists.c.o  -o cmTC_be00a 
+Building C object CMakeFiles/cmTC_4c350.dir/CheckSymbolExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk   -o CMakeFiles/cmTC_4c350.dir/CheckSymbolExists.c.o   -c /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_4c350
+/usr/local/Cellar/cmake/3.9.6/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4c350.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4c350.dir/CheckSymbolExists.c.o  -o cmTC_4c350 
 gmake[1]: Leaving directory '/Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp'
 
 File /Volumes/Media/homework-telegram-bot/example-bot/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:

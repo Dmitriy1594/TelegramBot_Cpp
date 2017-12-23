@@ -110,4 +110,5 @@ void onAnyMessage(Bot& bot, Message::Ptr message) {
     }
     // отправляем сообщение об ошибке
     std::string answer = Utils::fromLocale("Такой команды нет, введите /allcommands или /commands, чтобы посмотреть все команды!");
+    bot.getApi().sendMessage(message->chat->id, answer);
 }
